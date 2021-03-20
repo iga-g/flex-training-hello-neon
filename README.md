@@ -1,4 +1,4 @@
-### Training project
+# Training project
 
 ## Description 
 
